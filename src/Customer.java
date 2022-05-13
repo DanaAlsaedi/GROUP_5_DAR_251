@@ -1,11 +1,11 @@
 
 import java.io.PrintWriter;
-
+// dana
 
 public class Customer {
+    private String Username;
    
     private int Cus_id;
-    private String Username;
     private String Password;
     private String Fname;
     private String Lname;
